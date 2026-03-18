@@ -21,8 +21,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:
+Developed by: SENASH AYISHA F
+RegisterNumber:212225040394
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
@@ -92,7 +92,8 @@ print(f"Prediction: {'Spam' if prediction[0]==1 else 'Ham'}")
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+<img width="571" height="339" alt="image" src="https://github.com/user-attachments/assets/6a6de9f1-8fc3-411d-a98a-574a677b701e" />
+
 
 
 ## Result:
